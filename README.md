@@ -10,17 +10,22 @@ A revivial of the Dr. Sebi Nutritional Guide, updated... every now and then. I i
 
 These images are taken directory from the latest master branch. They are, and always will be, the latest verion of the guide.
 
-<img src="https://github.com/TheRealYuno/Nutritional-Guide/blob/master/src/scan/nutritional.jpg" />
+<img src="https://github.com/TheRealYuno/Nutritional-Guide/blob/master/scan/nutritional.jpg" />
 
-<img src="https://github.com/TheRealYuno/Nutritional-Guide/blob/master/src/scan/herbal.jpg">
+<img src="https://github.com/TheRealYuno/Nutritional-Guide/blob/master/scan/herbal.jpg">
 
-To edit them, open the .xcf file in [GIMP](https://www.gimp.org/)
+## Editing
+
+1. Install the .ttf files from /fonts to your computer.
+2. Open the .xcf file in [GIMP](https://www.gimp.org/)
+
+I tried to organize the layers the best I can. 
+
 ## Methodology
 
 Taken from [https://drsebiscellfood.com/methodology/](https://drsebiscellfood.com/methodology/)
 
-```
-I am Dr. Sebi, founder of Dr. Sebi’s Research Institute. At this time, I would like to take this opportunity to give you a brief synopsis of how our premise and methodology achieves successful results in eradicating diseases.
+"I am Dr. Sebi, founder of Dr. Sebi’s Research Institute. At this time, I would like to take this opportunity to give you a brief synopsis of how our premise and methodology achieves successful results in eradicating diseases.
 
 This brief, but concise illustration will reveal our premise and methodology to be consistent. According to Western medical research, diseases are a result of the host being infected with a “germ”, “virus”, or “bacteria”. In their approach in treating these “infestations”, inorganic, carcinogenic chemicals are employed. Our research immediately uncovers flaws in their premise through basic deductive reasoning. By consistently utilizing the same premise and methods, they have consistently yielded ineffective results. In essence, in the 400-year tradition of the European philosophy of medicine, their approach in treating disease has yet to produce any cures.
 
@@ -32,5 +37,4 @@ Our system of nutrition goes even further. In addition to removing the accumulat
 
 It is with Dr. Sebi’s intra-cellular detoxifying cleanse that each cell in the body will be purified. The body will then rebuild and rejuvenation will take place. Dr. Sebi offers the Bio-Mineral Therapy which is a natural vegetation cell food. A living substance which nourishes the body and detoxifies at the cellular level.
 
-One must consume life – not Death – to maintain and sustain oneself.
-```
+One must consume life – not Death – to maintain and sustain oneself."
